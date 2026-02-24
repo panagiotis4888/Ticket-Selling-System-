@@ -9,42 +9,9 @@ The system supports both customer operations and administrator management tools,
 
 The application follows a modular architecture and integrates a relational database for persistent data storage.
 
-Key Features
-Customer Features
 
-User registration and authentication
 
-Secure login system
 
-Browse available events
-
-Reserve tickets
-
-Purchase tickets
-
-Store and use credit card information
-
-View reservations
-
-Administrator Features
-
-Administrator authentication
-
-Event creation and management
-
-Ticket availability control
-
-Sales monitoring
-
-Reservation monitoring
-
-Statistical analysis of sales
-
-VIP ticket sales analysis
-
-Time-based sales reports
-
-System Architecture
 
 The project follows a layered architecture:
 
@@ -118,6 +85,12 @@ Administrator
 
 These classes represent the system’s domain model and correspond to database tables.
 
+
+
+
+
+
+
 Technologies Used
 
 Programming Language: Java
@@ -136,24 +109,3 @@ Database Design
 
 The system uses a relational database structure.
 
-Main tables include:
-
-Customers
-
-Administrators
-
-Events
-
-Tickets
-
-Reservations
-
-Credit Cards
-
-The database ensures:
-
-Data consistency
-
-Referential integrity
-
-Structured storage
