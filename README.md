@@ -1,6 +1,6 @@
 # Ticket-Selling-System-
 
-Overview
+## Overview
 
 This project is a Java-based Event Management and Ticketing System developed as a full-stack desktop application.
 It provides a complete solution for managing events, customers, reservations, and ticket sales through a structured database-driven architecture.
@@ -13,9 +13,9 @@ The application follows a modular architecture and integrates a relational datab
 
 
 
-The project follows a layered architecture:
+## The project follows a layered architecture:
 
-1. Frontend Layer
+## 1. Frontend Layer
 
 Graphical User Interface implemented in Java.
 
@@ -43,7 +43,7 @@ User Dashboard
 
 Admin Dashboard
 
-2. Backend Layer
+## 2. Backend Layer
 
 Responsible for data management and database communication.
 
@@ -65,7 +65,7 @@ Data access classes
 
 Server logic
 
-3. Data Model Layer
+## 3. Data Model Layer
 
 Contains the core application entities.
 
@@ -90,8 +90,7 @@ These classes represent the system’s domain model and correspond to database t
 
 
 
-
-Technologies Used
+## Technologies Used
 
 Programming Language: Java
 
